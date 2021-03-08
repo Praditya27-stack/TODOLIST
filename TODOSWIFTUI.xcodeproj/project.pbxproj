@@ -76,13 +76,13 @@
 		1817F93325E4AF4D00F5D0E3 /* Icons */ = {
 			isa = PBXGroup;
 			children = (
-				1817F93825E4AF9300F5D0E3 /* Blue Dark.png */,
 				1817F93425E4AF9300F5D0E3 /* Blue Light.png */,
 				1817F93525E4AF9300F5D0E3 /* Blue.png */,
 				1817F93725E4AF9300F5D0E3 /* Green Dark.png */,
 				1817F93925E4AF9300F5D0E3 /* Green Light.png */,
 				1817F93A25E4AF9300F5D0E3 /* Green.png */,
 				1817F93625E4AF9300F5D0E3 /* Pink Dark.png */,
+				1817F93825E4AF9300F5D0E3 /* Blue Dark.png */,
 				1817F93B25E4AF9300F5D0E3 /* Pink Light.png */,
 				1817F93C25E4AF9300F5D0E3 /* Pink.png */,
 			);
